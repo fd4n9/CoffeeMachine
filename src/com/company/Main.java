@@ -44,7 +44,6 @@ public class Main {
             }
         } while (!exit);
 
-
     }
 
     static void buy () {
